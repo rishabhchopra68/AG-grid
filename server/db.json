@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Rishabh2",
+      "email": "rishabhchopra68@gmail.com",
+      "phone": "8527052703",
+      "dob": "10/10/1010"
+    },
+    {
+      "name": "Suresh",
+      "email": "sure@gmal.com",
+      "dob": "12/12/13",
+      "phone": "1212121212",
+      "id": 3
+    }
+  ]
+}
